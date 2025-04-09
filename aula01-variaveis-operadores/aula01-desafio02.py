@@ -1,0 +1,5 @@
+nome = input('Qual seu nome?')
+dia = input('dia do seu nascimento: ')
+mes = input('qual o mes: ')
+ano = input('qual o ano? ')
+print(f'ola {nome}! voce nasceu em {dia}/{mes}/{ano}')
